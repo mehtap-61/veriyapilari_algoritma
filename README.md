@@ -1,0 +1,2 @@
+# veriyapilari_algoritma
+VERIYAPILARI_ISTKA
