@@ -1,6 +1,5 @@
 # veriyapilari_algoritma
-Python ile veri yapılarını öğrenin! 
-Bu proje, Python programlama dili kullanılarak günlük tutma uygulaması geliştirme amacıyla başlatılmıştır. Proje, veri yapıları, algoritmalar ve koşul yapıları gibi temel Python konularını öğrenmek için bir araç olarak kullanılmıştır.
+Python ile veri yapılarını öğrenin! Bu proje, Python programlama dili kullanılarak günlük tutma uygulaması geliştirme amacıyla başlatılmıştır. Proje, veri yapıları, algoritmalar ve koşul yapıları gibi temel Python konularını öğrenmek için bir araç olarak kullanılmıştır.
 
 İçindekiler
 Gün 1: Phytonda ilk ayarlar
