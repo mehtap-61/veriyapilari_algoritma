@@ -1,4 +1,7 @@
 # veriyapilari_algoritma
+
+Veri yapısı, bilgisayarın belleğindeki verilerin düzenlenmesidir. Algoritmalara, bu yapılardaki verileri, belirli bir veri öğesini aramak ve verileri sıralamak gibi çeşitli şekillerde yönlendirir.
+
 Python ile veri yapılarını öğrenin! Bu proje, Python programlama dili kullanılarak günlük tutma uygulaması geliştirme amacıyla başlatılmıştır. Proje, veri yapıları, algoritmalar ve koşul yapıları gibi temel Python konularını öğrenmek için bir araç olarak kullanılmıştır.
 
 İçindekiler
