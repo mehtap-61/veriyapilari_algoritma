@@ -19,5 +19,5 @@ Gün 5: Döngü örnekleri
 2.hafta
 Gün 6: AkısSemasi_Dizi_Pointer_Dosyalama_Fonksiyonlar
 Gün 7: Phyton programlama dilinde (atiktan-geri kazanım miktarları ve atık verileri csv dosyaları üzerinden)dosyalama işlemleri 
-Gün 8: Dosya işlemleri devamı ve veri (atiktan-geri kazanım miktarları ve atık verileri csv dosyaları üzerinden) görselleştirme
+Gün 8: Dosya işlemleri devamı ve  (atiktan-geri kazanım miktarları ve atık verileri csv dosyaları üzerinden) veri görselleştirme
 Gün 9:  Veri görselleştirme devamı(ilcesuveriseti csv dosyası üzerinden)  ve Sıralama, Arama ve Graf Algoritmaları 
